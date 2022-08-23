@@ -1,0 +1,5 @@
+* [首页](/zh-cn/)
+* [下载](/zh-cn/download.md)
+* [FAQ](/zh-cn/faq.md)
+* [使用协议](/zh-cn/terms_of_use.md)
+* [隐私政策](/zh-cn/privacy_policy.md)
