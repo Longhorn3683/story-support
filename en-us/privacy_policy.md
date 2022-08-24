@@ -1,12 +1,11 @@
 # Story Privacy Policy
 
-- Last updated on August 23, 2022
-- Effective on August 23, 2022
+- Last updated on August 24, 2022
+- Effective on August 25, 2022
 
 Updates:
 1. Overall reconstruction of the privacy policy.
-2. Modify the content of "2. Permission Statement": the application no longer applies for Internet permissions.
-3. Modify the content of "3. How to update the privacy policy".
+2. Modify the content of "3. How to update the privacy policy".
 3. "4. How to contact us" is revised to "4. Contact information", and its content has been changed.
 
 Story (including software and related services) is provided by independent developer Longhorn3683 (hereinafter referred to as the "Developer"). The developer attaches great importance to protecting the personal information and privacy of users (hereinafter referred to as "you"). In order to present the developer's handling of your personal information, the developer has formulated the "Story Privacy Policy" (hereinafter referred to as the "Privacy Policy"). Please be sure to read carefully and fully understand the contents of each clause.
@@ -28,6 +27,8 @@ This Privacy Policy will help you understand the following:
 ### 2. Permission statement
 
 2.1 Storage permission: for importing photos
+
+2.2 Internet permission：for download fonts
 
 ### 3. How to update the privacy policy
 
