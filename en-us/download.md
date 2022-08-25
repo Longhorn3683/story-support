@@ -1,6 +1,6 @@
 # Download
 
-Latest version: 1.8.0
+Latest version: 1.8.0 (2005)
 
 ## From Store
 ### Google Play: Coming Soon
@@ -8,12 +8,6 @@ Latest version: 1.8.0
 ### CoolApk: https://www.coolapk.com/apk/287409
 
 ## Direct Download
-### iCloud Drive: 
-- arm64-v8a: https://www.icloud.com/iclouddrive/00bSvY47Vo6jcXbW9JZ4hELdQ
-- armeabi-v7a: https://www.icloud.com/iclouddrive/079xj1-RHtnDHX8lv6GBXSgCQ
-- x86_64: https://www.icloud.com/iclouddrive/0beyCPl9Dk8wJIsZ520yEboqA
-
-### Lanzou: 
-- arm64-v8a (Password: dfu3): https://longhorn3683.lanzoub.com/ijG2i0a6hd2j
-- armeabi-v7a (Password: 966a): https://longhorn3683.lanzoub.com/i6tkI0a6hcef
-- x86_64 (Password: 1eje): https://longhorn3683.lanzoub.com/iywcw0a6hcub
+- arm64-v8a: https://www.icloud.com/iclouddrive/0fbYlVno3d_aKYTAYWUmhSsag#story-1.8
+- armeabi-v7a: https://www.icloud.com/iclouddrive/0c7Uo6wE0jP6rx6Zs2tKs7HQA#story-1.8
+- x86_64: https://www.icloud.com/iclouddrive/0370VTUy2uztiUCqONHoSCnYw#story-1.8
