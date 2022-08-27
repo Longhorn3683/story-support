@@ -1,6 +1,6 @@
 # Download
 
-Latest version: 1.8.0 (2005)
+Latest version: 1.8.1 (2006)
 
 ## From Store
 ### Google Play: Coming Soon
@@ -8,6 +8,6 @@ Latest version: 1.8.0 (2005)
 ### CoolApk: https://www.coolapk.com/apk/287409
 
 ## Direct Download
-- arm64-v8a: https://www.icloud.com/iclouddrive/0fbYlVno3d_aKYTAYWUmhSsag#story-1.8
-- armeabi-v7a: https://www.icloud.com/iclouddrive/0c7Uo6wE0jP6rx6Zs2tKs7HQA#story-1.8
-- x86_64: https://www.icloud.com/iclouddrive/0370VTUy2uztiUCqONHoSCnYw#story-1.8
+- arm64-v8a: https://www.icloud.com/iclouddrive/0a2ths-EDXLcguLiLqO3gD-9Q#story-1.8
+- armeabi-v7a: https://www.icloud.com/iclouddrive/052i1cc4hq886Tq6KGeK9C_Qg#story-1.8
+- x86_64: https://www.icloud.com/iclouddrive/03dxHYLvgY24TotxhbJ3Jwong#story-1.8
